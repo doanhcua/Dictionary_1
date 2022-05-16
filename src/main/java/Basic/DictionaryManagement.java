@@ -83,12 +83,11 @@ public class DictionaryManagement {
     // FUNCTION deleteWordInDictionary
     public void deleteWordInDictionary() {
         System.out.println("-----------------------DELETE WORD----------------------------");
-        System.out.println("Enter word want delete: ");
+        System.out.println("Word want delete: ");
         String del = scan.nextLine();
         for (int i = 0; i < Dictionary.listWord.size(); i++) {
             if (Dictionary.listWord.get(i).getWord_target().equals(del)) {
                 System.out.println(del + ":word found in dictionary !");
-
                 Dictionary.listWord.remove(i);
                 System.out.println("Delete success !!!");
                 return;
