@@ -25,13 +25,12 @@ public class DictionaryManagement {
     }
     // FUNCTION insertFromCommandline
     public void insertFromCommandline() {
-        System.out.println("------------------ Add word to dictionary --------------------");
         System.out.println("Word target");
         String target = scan.nextLine();
         boolean check = false;
         for (Word elemt : Dictionary.listWord) {
             if (elemt.getWord_target().equals(target.trim())) {
-                System.out.println( target + "  has already been in the dictionary ");
+                System.out.println( target + "  has already been ");
                 check = true;
                 break;
             }
@@ -44,7 +43,6 @@ public class DictionaryManagement {
     }
     //FUNCTION dictionaryLookup
     public void dictionaryLookup() {
-        System.out.println("-------------------------- LOOK UP ---------------------------");
         System.out.print("Word: ");
         String wordLookup = scan.nextLine();
         for (Word elemt : Dictionary.listWord) {
@@ -54,12 +52,11 @@ public class DictionaryManagement {
                 return;
             }
         }
-        System.out.println("Word Not Found ! ");
+        System.out.println("Word does not exit ! ");
     }
     // FUNCTION dictionarySearcher
     public void dictionarySearcher() {
-        System.out.println("------------------------ SEARCHER ----------------------------");
-        System.out.print("Enter word: ");
+        System.out.print("word: ");
         String key = scan.nextLine();
         ArrayList<Word> listWordSearcher = new ArrayList<>();
         for (Word elemt : Dictionary.listWord) {
@@ -82,14 +79,12 @@ public class DictionaryManagement {
 
     // FUNCTION deleteWordInDictionary
     public void deleteWordInDictionary() {
-        System.out.println("-----------------------DELETE WORD----------------------------");
         System.out.println("Word want delete: ");
         String del = scan.nextLine();
         for (int i = 0; i < Dictionary.listWord.size(); i++) {
             if (Dictionary.listWord.get(i).getWord_target().equals(del)) {
-                System.out.println(del + ":word found in dictionary !");
+                System.out.println(del + ":found in dictionary !");
                 Dictionary.listWord.remove(i);
-                System.out.println("Delete success !!!");
                 return;
             }
         }

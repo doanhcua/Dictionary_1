@@ -14,14 +14,15 @@ public class DictionaryCommandline {
 
         Dictionary.listWord =  Dictionary.listWord.stream().sorted().collect(Collectors.toList());
 
-        JFrame ui = new UI();
+        JScrollPane scrollpane = null;
+        JFrame ui = new UI(scrollpane);
 
         ui.setVisible(true);
 
         int op ;
 
         do {
-            System.out.println("");
+            System.out.println();
             System.out.println("--------- Welcome to English - Vietnamese dictionary ----------");
             System.out.println("1. Searcher ");
             System.out.println("2. Look up ");
