@@ -13,7 +13,6 @@ adult	     người lớn, người trưởng thành; trưởng thành
 advance	     sự tiến bộ, tiến lên; đưa lên, đề xuất
 advanced	 tiên tiến, tiến bộ, cấp cao
 advantage	 sự thuận lợi, lợi ích, lợi thế
-apple	quả táo
 atmosphere	 khí quyển
 atom	     nguyên tử
 attach	     gắn, dán, trói, buộc
@@ -42,7 +41,6 @@ bell	     cái chuông, tiếng chuông
 belong	     thuộc về, của, thuộc quyền sở hữu
 below	     ở dưới, dưới thấp, phía dưới
 belt	     dây lưng, thắt lưng
-bored	     chán nản
 cabinet	     tủ có nhiều ngăn đựng đồ
 cable	     dây cáp
 cake	     bánh ngọt
@@ -81,7 +79,6 @@ decay	     tình trạng suy tàn, suy sụp, tình trạng đổ nát
 december	 tháng mười hai, tháng chạp
 decline	     sự suy tàn, sự suy sụp; suy sụp, suy tàn
 decorate	 trang hoàng, trang trí
-each other	 nhau, lẫn nhau
 earn	     kiếm
 earth	     đất, trái đất
 ease	     sự thanh thản, sự thoải mái; làm thanh thản, làm yên tâm, làm dễ chịu
@@ -128,7 +125,6 @@ harm	     thiệt hại, tổn hao; làm hại, gây thiệt hại
 harmful	     gây tai hại, có hại
 hat	         cái mũ
 hate	     ghét; lòng căm ghét, thù hận
-hello	     xin chào
 husband	     người chồng
 ice	         băng, nước đá
 idea	     ý tưởng, quan niệm
@@ -138,7 +134,6 @@ jelly	     thạch
 job	         việc, việc làm
 join	     gia nhập, tham gia; nối, chắp, ghép
 joke	     trò cười, lời nói đùa; nói đùa, giễu cợt
-live	     sống
 machine	     máy, máy móc
 machinery	 máy móc, thiết bị
 magazine	 tạp chí
@@ -149,12 +144,6 @@ mainly	     chính, chủ yếu, phần lớn
 maintain	 giữ gìn, duy trì, bảo vệ
 major	     lớn, nhiều hơn, trọng đại, chủ yếu
 make	     làm, chế tạo; sự chế tạo
-march	     diễu hành, hành quân; cuộc hành quân, cuộc diễu hành
-miss	     cô gái, thiếu nữ
-mum	         mẹ
-numeral	     số,chữ số
-orange	quả cam
-penny	     số tiền
 quarter	     4, 15 phút
 queen	     nữ hoàng
 question	 câu hỏi; hỏi, chất vấn
@@ -169,14 +158,12 @@ sack	     bào tải; đóng bao, bỏ vào bao
 sad	         buồn, buồn bã
 safe	     an toàn, chắc chắn, đáng tin
 safety	     sự an toàn, sự chắc chăn
-shot	sự bắn súng
 table	     cái bàn
 tablet	     tấm, bản, thẻ phiến
 tail	     đuôi, đoạn cuối
 take	     sự cầm nắm, sự lấy
 ultimate	 cuối cùng, sau cùng
 umbrella	 ô, dù
-unnecessary	 không cần thiết, không mong muốn
 vacation	 kỳ nghỉ hè, kỳ nghỉ lễ; ngày nghỉ, ngày lễ
 valid	     chắc chắn, hiệu quả, hợp lý
 valley	     thung lũng
@@ -187,3 +174,14 @@ vote	     sự bỏ phiếu, sự bầu cử; bỏ phiếu, bầu cử
 wage	     tiền lương, tiền công
 wake	     thức dậy, tỉnh thức
 well	     tốt, giỏi; ôi, may quá!
+live	     sống
+march	     diễu hành, hành quân; cuộc hành quân, cuộc diễu hành
+miss	     cô gái, thiếu nữ
+mum	         mẹ
+unnecessary	 không cần thiết, không mong muốn
+each other	 nhau, lẫn nhau
+penny	     số tiền
+bored	     chán nản
+hello	     xin chào
+numeral	     số,chữ số
+shot	sự bắn súng
