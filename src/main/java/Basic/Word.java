@@ -1,6 +1,6 @@
 package Basic;
 
-public class Word {
+public class Word implements Comparable {
     private String word_target;
     private String word_explain;
 
@@ -30,4 +30,9 @@ public class Word {
         System.out.printf("%-20s%-20s\n", getWord_target(), getWord_explain());
     }
 
+    @Override
+    public int compareTo(Object o) {
+        if (! (o instanceof Word)) return 0;
+        return this.getWord_target().compareTo(((Word) o).getWord_target());
+    }
 }

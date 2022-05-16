@@ -1,12 +1,22 @@
 package Basic;
 
+import javax.swing.*;
 import java.util.Scanner;
+import java.util.stream.Collectors;
 
 public class DictionaryCommandline {
+    public static DictionaryManagement DicManagement;
+
     public static void main(String[] args) {
-        DictionaryManagement DicManagement = new DictionaryManagement();
+        DicManagement = new DictionaryManagement();
         Scanner scan = new Scanner(System.in);
         DicManagement.insertFromFile();
+
+        Dictionary.listWord =  Dictionary.listWord.stream().sorted().collect(Collectors.toList());
+
+        JFrame ui = new UI();
+
+        ui.setVisible(true);
 
         int op ;
 
@@ -43,7 +53,13 @@ public class DictionaryCommandline {
                 break;
             }
 
-            DicManagement.dictionaryExportToFile();
+
         } while (op >=1 && op <= 6);
+
+        DicManagement.dictionaryExportToFile();
+
+        ui.setVisible(false);
+        ui.dispose();
+
     }
 }
