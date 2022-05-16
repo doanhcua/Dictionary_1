@@ -26,6 +26,7 @@ public class UI extends JFrame {
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setContentPane(mainPanel);
         this.pack();
+        this.setResizable(false);
 
         this.addWindowListener(new WindowAdapter() {
             @Override
