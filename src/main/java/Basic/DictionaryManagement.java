@@ -28,14 +28,14 @@ public class DictionaryManagement {
         System.out.println("Word target");
         String target = scan.nextLine();
         boolean check = false;
-        for (Word elemt : Dictionary.listWord) {
-            if (elemt.getWord_target().equals(target.trim())) {
+        for (Word elem : Dictionary.listWord) {
+            if (elem.getWord_target().equals(target.trim())) {
                 System.out.println( target + "  has already been ");
                 check = true;
                 break;
             }
         }
-        if(check == false) {
+        if(!check) {
             System.out.print("Word explain: ");
             String explain = scan.nextLine();
             Dictionary.listWord.add(new Word(target, explain));
@@ -45,36 +45,14 @@ public class DictionaryManagement {
     public void dictionaryLookup() {
         System.out.print("Word: ");
         String wordLookup = scan.nextLine();
-        for (Word elemt : Dictionary.listWord) {
-            if (elemt.getWord_target().equals(wordLookup)) {
+        for (Word elem : Dictionary.listWord) {
+            if (elem.getWord_target().equals(wordLookup)) {
 //                System.out.println("Lookup Success !");
-                elemt.printWord();
+                elem.printWord();
                 return;
             }
         }
         System.out.println("Word does not exit ! ");
-    }
-    // FUNCTION dictionarySearcher
-    public void dictionarySearcher() {
-        System.out.print("word: ");
-        String key = scan.nextLine();
-        ArrayList<Word> listWordSearcher = new ArrayList<>();
-        for (Word elemt : Dictionary.listWord) {
-            if (elemt.getWord_target().startsWith(key)) {
-                listWordSearcher.add(elemt);
-            }
-        }
-        if (listWordSearcher.isEmpty()) {
-            System.out.println("Word Not Found !");
-        } else {
-            System.out.println("Words start with: " + key );
-            int i = 1;
-            for (Word elemt: listWordSearcher) {
-                System.out.printf("%-4d", i);
-                elemt.printWord();
-                i++;
-            }
-        }
     }
 
     // FUNCTION deleteWordInDictionary

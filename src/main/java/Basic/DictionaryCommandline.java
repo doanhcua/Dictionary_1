@@ -24,12 +24,11 @@ public class DictionaryCommandline {
         do {
             System.out.println();
             System.out.println("--------- Welcome to English - Vietnamese dictionary ----------");
-            System.out.println("1. Searcher ");
-            System.out.println("2. Look up ");
-            System.out.println("3. Insert word ");
-            System.out.println("4. Delete word ");
-            System.out.println("5. Show all word ");
-            System.out.println("6. End program");
+            System.out.println("1. Look up ");
+            System.out.println("2. Insert word ");
+            System.out.println("3. Delete word ");
+            System.out.println("4. Show all word ");
+            System.out.println("5. End program");
             System.out.println("--------------------------------------------------------------");
 
             while(!scan.hasNextInt()) {
@@ -40,22 +39,20 @@ public class DictionaryCommandline {
             op = scan.nextInt();
 
             if(op ==1) {
-                DicManagement.dictionarySearcher();
-            }else if(op ==2) {
                 DicManagement.dictionaryLookup();
-            }else if(op ==3) {
+            }else if(op ==2) {
                 DicManagement.insertFromCommandline();
-            }else if(op ==4) {
+            }else if(op ==3) {
                 DicManagement.deleteWordInDictionary();
-            }else if(op ==5) {
+            }else if(op ==4) {
                 DicManagement.showAllWords();
-            }else if(op ==6) {
+            }else if(op ==5) {
                 System.out.println("The program has ended");
                 break;
             }
 
 
-        } while (op >=1 && op <= 6);
+        } while (op >=1 && op <= 5);
 
         DicManagement.dictionaryExportToFile();
 

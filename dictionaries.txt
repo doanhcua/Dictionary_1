@@ -1,531 +1,332 @@
-able         có năng lực
-abandon      từ bỏ
-about        khoảng, về
-above        ở trên, lên trên
-act          hành động
-add             cộng, thêm vào
-addition    tính cộng, phép cộng
-additional  thêm vào, tăng thêm
-address         địa chỉ, đề địa chỉ
-adequate    đầy, đầy đủ
-adequately  tương xứng, thỏa đáng
-adjust      sửa lại cho đúng, điều chỉnh
-admiration  sự khâm phục,người kp, thán phục
-admire      khâm phục, thán phục
-admit       nhận vào, cho vào, kết hợp
-adopt       nhận làm con nuôi, bố mẹ nuôi
-adult       người lớn, người trưởng thành; trưởng thành
-advance         sự tiến bộ, tiến lên; đưa lên, đề xuất
-advanced    tiên tiến, tiến bộ, cấp cao
-advantage   sự thuận lợi, lợi ích, lợi thế
-after        sau, đằng sau
-again        lại, nữa, lần nữa
-age          tuổi
-ago          trước đây
-agree        đồng ý, tán thành
-air          không khí
-all          tất cả
-allow        cho phép, để cho
-also         cũng, cũng vậy
-always       luôn luôn
-and          và
-anger        sự tức giận
-animal       động vật
-answer       sự trả lời
-appear       xuất hiện
-apple        quả táo
-area         diện tích, bề mặt
-arrange      sắp xếp, sắp đặt
-arrive       đến, tới nơi
-art          nghệ thuật
-atmosphere  khí quyển
-atom        nguyên tử
-attach      gắn, dán, trói, buộc
-attached    gắn bó
-attack      sự tấn công, sự công kích; tấn công, công kích
-baby         đứa trẻ mới sinh
-back        lưng, về phía sau, trở lại
-background  phía sau; nền
-backward    về phía sau, lùi lại
-bacteria    vi khuẩn
-bad             xấu, tồi
-badly       xấu, tồi
-bag             bao, túi, cặp xách
-ball         quả bóng
-band         băng
-bank         bờ, đê
-bargain         sự mặc cả, sự giao kèo mua bán
-barrier         đặt chướng ngại vật
-basic        cơ bản, cơ sở
-be           thì, là
-beach       bãi biển
-bear         mang, cầm, vác
-beat         tiếng đập
-beauty       vẻ đẹp, cái đẹp
-bed          cái giường
-been         thì, là
-beef        thịt bò
-beer        rượu bia
-before      trước, đằng trước
-begin       bắt đầu, khởi đầu
-behalf      sự thay mặt
-behave      đối xử, ăn ở, cư xử
-behind      sau, ở đằng sau
-belief      lòng tin, đức tin, sự tin tưởng
-believe         tin, tin tưởng
-bell        cái chuông, tiếng chuông
-belong      thuộc về, của, thuộc quyền sở hữu
-below       ở dưới, dưới thấp, phía dưới
-belt        dây lưng, thắt lưng
-best         tốt nhất
-better       tốt hơn
-between      giữa
-big          to, lớn
-bird         con chim
-bit          miếng, mảnh
-black        màu đen
-block        khối, tảng
-blood        máu, huyết
-blow         nở hoa
-blue         màu xanh
-board        tấm ván, lát ván
-boat         tàu, thuyền
-body         thân thể
-bone         xương
-book         sách
-both         cả hai
-bottom       phần dưới cùng
-bought       mua
-box          hộp, thùng
-boy          con trai
-branch       nhành cây
-bread        bánh mỳ
-break        bẻ gãy, đập vỡ
-bright       sáng, sáng chói
-bring        mang, cầm
-broad        rộng
-brother      anh, em trai
-build        xây dựng
-busy         bận rộn
-but          nhưng
-cabinet         tủ có nhiều ngăn đựng đồ
-cable       dây cáp
-cake        bánh ngọt
-calculate   tính toán
-call        gọi; tiếng kêu, tiếng gọi
-calm        yên lặng, làm dịu đi; sự yên lặng, sự êm ả
-calmly      yên lặng, êm ả; bình tĩnh, điềm tĩnh
-camera      máy ảnh
-camp        trại, chỗ cắm trại; cắm trại, hạ trại
-camping         sự cắm trại
-can          có thể, nhà từ
-cancel      hủy bỏ, xóa bỏ
-cancer      bệnh ung thư
-candy       kẹo
-cannot      không thể
-capital      thủ đô
-captain      người cầm đầu
-car             xe hơi
-card        thẻ, thiếp
-care        quan tâm
-career      nghề nghiệp, sự nghiệp
-carefully   cẩn thận, chu đáo
-carry       mang, vác, khuân chở
-case        vỏ, ngăn, túi
-cast        quăng, ném, thả, đánh gục; sự quăng, sự ném
-cat             con mèo
-catch        bắt lấy
-caught       sự bắt, sự nắm lấy
-cause        nguyên nhân
-cell         ô, ngăn
-cent         đồng xu
-century      thế kỷ
-certain      chắc chắn
-chair        ghế
-chance       sự may mắn
-change       thay đổi
-charge       nhiệm vụ, bổn phận
-chart        đồ thị, biểu đồ
-check        kiểm tra
-chick        chim con, gà con
-child        đứa trẻ
-choose       lựa chọn
-chord        dây
-city         thành phố
-class        lớp học
-clean        sạch
-clear        lau chùi
-climb        leo, trèo
-clock        đồng hồ
-close        đóng kín
-clothe       mặc quần áo cho
-cloud        đám mây
-cold         lạnh
-color        màu sắc
-common       công, công cộng
-company      công ty
-compare      so sánh
-complete     hoàn thành
-connect      kết nối
-consider     cân nhắc, xem xét
-contain      bao hàm
-control      sự điều khiển
-copy         bản sao
-count        đếm, tính
-create       sáng tạo
-crop         vụ mùa
-cut          cắt, chặt
-dad          bố, cha
-dance        nhảy múa
-danger       sự nguy hiểm
-dark        tối, tối tăm; bóng tối, ám muội
-data        số liệu, dữ liệu
-date        ngày, kỳ, kỳ hạn, thời kỳ, thời đại
-daughter    con gái
-day             ngày, ban ngày
-dead        chết, tắt
-deaf        điếc, làm thinh, làm ngơ
-deal with   giải quyết
-dear        thân, thân yêu, thân mến; kính thưa, thưa
-death       sự chết, cái chết
-debate      cuộc tranh luận, cuộc tranh cãi; tranh luận, bàn cãi
-decay       tình trạng suy tàn, suy sụp, tình trạng đổ nát
-december    tháng mười hai, tháng chạp
-decide       quyết định
-decline         sự suy tàn, sự suy sụp; suy sụp, suy tàn
-decorate    trang hoàng, trang trí
-degree       mức độ, trình độ
-describe     diễn tả
-desert       sa mạc
-design       thiết kế
-develop      phát triển
-dictionary   từ điển
-die          chết, hy sinh
-differ       khác, không giống
-discuss      thảo luận
-distant      xa, cách
-do           làm
-doctor       bác sĩ
-dog          con chó
-door         cửa
-double       đôi, hai
-down         xuống
-duck         con vịt
-during       trong lúc
-each         mỗi
-ear          tai
-early        sớm
-earn        kiếm
-earth       đất, trái đất
-ease        sự thanh thản, sự thoải mái; làm thanh thản, làm yên tâm, làm dễ chịu
-easily      dễ dàng
-east        hướng đông, phía đông,  đông, ở phía đông
-eastern         đông
-easy        dễ dàng, dễ tính, ung dung
-eat             ăn
-economic    kinh tế
-economy         sự tiết kiệm, sự quản lý kinh tế
-edge        lưỡi, cạnh sắc
-edition         nhà xuất bản, sự xuất bản
-effect       hiệu quả
-egg          trứng
-eight        tám
-electric     điện
-end          giới hạn
-energy       năng lượng
-engine       máy, động cơ
-enough       đủ
-enter        đi vào
-especially   đặc biệt
-evening      buổi tối
-event        sự kiện
-example      ví dụ
-exercise     bài tập, sự thi hành
-experience   kinh nghiệm
-eye          mắt
-face        mặt, thể diện; đương đầu, đối phó, đối mặt
-facility    điều kiện dễ dàng, sự dễ dàng, thuận lợi
-fact        việc, sự việc, sự kiện
-factor      nhân tố
-factory         nhà máy, xí nghiệp, xưởng
-fail        sai, thất bại
-failure         sự thất bại, người thất bại
-faint       nhút nhát, yếu ớt
-fair        hợp lý, công bằng; thuận lợi
-fairly      hợp lý, công bằng
-faith       sự tin tưởng, tin cậy; niềm tin, vật đảm bảo
-fell         da lông
-felt         nỉ, phớt
-field        cánh đồng
-fill         làm đầy
-find         tìm thấy
-fine         tốt, giỏi
-finish       kết thúc
-first        thứ nhất
-fish         cá, món cá
-five         năm
-floor        chảy
-flower       hoa, bông
-follow       đi theo sau
-food         đồ ăn
-foot         chân, bàn chân
-four         bốn
-free         miễn phí
-friend       người bạn
-from         từ
-fruit        quả, trái cây
-gain        lợi, lợi ích; giành được, kiếm được, đạt tới
-gamble      đánh bạc; cuộc đánh bạc
-gambling    trò cờ bạc
-game        trò chơi
-gap             đèo, lỗ hổng, kẽ hở; chỗ trống
-garage      nhà để ô tô
-garbage         lòng, ruột
-garden      vườn
-gas             khí, hơi đốt
-gate        cổng
-gear        cơ cấu, thiết bị, dụng cụ
-girl         con gái
-give         cho, biếu, tặng
-glass        kính, thủy tinh
-go           đi
-good         tốt
-grand        rộng lớn, vĩ đại
-grass        cỏ
-gray         màu xám
-great        to, lớn
-group        nhóm
-grow         mọc lên
-guide        dẫn đườngg
-gun          súng
-habit       thói quen, tập quán
-hair        tóc
-hand        tay, bàn tay; trao tay, truyền cho
-handle      treo, mắc
-happen      xảy ra, xảy đến
-happy       vui sướng, hạnh phúc
-hard        cứng, rắn, hà khắc; hết sức cố gắng, tích cực
-hardly      khắc nghiệt, nghiêm khắc, tàn tệ, khó khăn
-harm        thiệt hại, tổn hao; làm hại, gây thiệt hại
-harmful         gây tai hại, có hại
-hat             cái mũ
-hate        ghét; lòng căm ghét, thù hận
-hear         cái đầu
-heavy        nặng nề
-help         giúp đỡ
-her          chị ấy, cô ấy
-here         ở đây
-high         cao
-hill         đồi
-him          nó, hắn, ông ấy
-hit          đánh, đấm
-hold         cầm, nắm
-hot          nóng
-house        ngôi nhà
-how          thế nào
-human        con người
-hunt         đi săn
-husband         người chồng
-ice             băng, nước đá
-idea        ý tưởng, quan niệm
-ideal       quan niệm, tư tưởng; lý tưởng
-in           trong
-include      bao gồm
-industry     công nghiệp
-interest     thú vị
-invent       phát minh
-island       hòn đảo
-it           cái đó
-jeans       quần bò, quần zin
-jelly       thạch
-job             việc, việc làm
-join        gia nhập, tham gia; nối, chắp, ghép
-joke        trò cười, lời nói đùa; nói đùa, giễu cợt
-jump         nhảy
-just         đúng
-keep         giữ
-key          chìa khóa
-kill         giết
-king         vua
-knew         biết
-know         biết
-lady         quý cô
-lake         hồ
-land         đất canh tác
-late         trễ, muộn
-lay          xếp, đặt
-learn        học, nghiên cứu
-left         bên trái
-length       chiều dài
-letter       thư, chữ cái
-level        trình độ
-lie          nói dối
-list         danh sách
-locate       xác định vị trí
-long         dài, xa
-lool         nhìn
-lot          thăm
-love         yêu
-machine         máy, máy móc
-machinery   máy móc, thiết bị
-magazine    tạp chí
-magic       ma thuật, ảo thuật;  ma thuật, ảo thuật
-mail        thư từ, bưu kiện; gửi qua bưu điện
-main        chính, chủ yếu, trọng yếu nhất
-mainly      chính, chủ yếu, phần lớn
-maintain    giữ gìn, duy trì, bảo vệ
-major       lớn, nhiều hơn, trọng đại, chủ yếu
-make        làm, chế tạo; sự chế tạo
-mean         nghĩa
-meant        khoảng giữa
-meet         gặp
-method       phương pháp
-might        có thể
-million      triệu
-mine         của tôi
-minute       phút
-mix          pha, trộn
-modern       hiện đại
-money        tiền
-month        tháng
-moon         mặt trăng
-motion       sự chuyển động
-mountain     núi
-music        nhạc
-name         tên
-nation       dân tộc
-nature       tự nhiên
-need         cần
-neighbor     hàng xóm
-never        không bao giờ
-next         sát, gần
-night        đêm
-nine         chín
-no           không
-noon         cũng không
-note         ghi chú
-nothing      không gì
-now          bây giờ
-number       số
-object       vật thể
-occur        xảy ra
-of           của
-off          tắt, khỏi, rời
-offer        biếu, tặng
-ofter        thường xuyên
-oil          dầu
-old          già
-one          một
-open         mở
-order        thứ, bậc
-original     nguồn gốc
-out          ngoài, ở ngoài
-own          của chính mình
-page         trang
-paint        sơn
-paper        giấy
-paragraph    đoạn văn
-part         bộ phận
-party        tiệc
-pass         vượt qua
-pay          trả
-people       mọi người
-person       con người
-phrase       câu thành ngữ
-picture      bức tranh
-place        nơi, địa điểm
-plan         kế hoạch, bản đồ
-plane        mặt phẳng
-play         chơi
-please       làm vui lòng, xin mời
-poor         nghèo
-popular      phổ biến
-possible     có thể
-post         thư, bưu kiện
-power        khả năng
-pretty       khá, vừa phải, xinh
-probable     có thể
-problem      vấn đề
-produce      sản xuất
-proper       đúng, thích đáng
-protect      bảo vệ
-provide      chuẩn bị đầy đủ
-put          đặt, để, cho vào
-quarter         4, 15 phút
-queen       nữ hoàng
-question    câu hỏi; hỏi, chất vấn
-quick       nhanh
-race        loài, chủng, giống; cuộc đua; đua
-racing      cuộc đua
-radio       sóng vô tuyến, radio
-rail        đường ray
-railway         đường sắt
-rain        mưa, cơn mưa; mưa
-read         đọc
-real         thực tế
-reason       lý do
-record       bản ghi
-red          màu đỏ
-region       vùng, miền
-remember     nhớ lại
-rest         sự nghỉ ngơi
-rich         giàu
-ride         đi, cưỡi
-ring         chiếc nhẫn
-road         đường
-room         phòng
-root         gốc, rễ
-run          chạy
-sack        bào tải; đóng bao, bỏ vào bao
-sad             buồn, buồn bã
-safe        an toàn, chắc chắn, đáng tin
-safety      sự an toàn, sự chắc chăn
-school       trường
-science      khoa học
-sea          biển
-search       sự tìm kiếm
-season       mùa
-see          nhìn
-seem         có vẻ như
-select       chọn lựa
-send         gửi
-seven        bảy
-shape        hình dạng
-ship         tàu
-shop         cửa hàng
-short        ngắn, cụt
-shoulder     vai
-side         mặt phẳng
-sight        cảnh đẹp
-sign         dấu hiệu
-similar      tương tự
-simple       đơn giản
-sing         ca hát
-sister       chị, em gái
-table       cái bàn
-tablet      tấm, bản, thẻ phiến
-tail        đuôi, đoạn cuối
-take        sự cầm nắm, sự lấy
-ultimate    cuối cùng, sau cùng
-umbrella    ô, dù
-vacation    kỳ nghỉ hè, kỳ nghỉ lễ; ngày nghỉ, ngày lễ
-valid       chắc chắn, hiệu quả, hợp lý
-valley      thung lũng
-valuable    có giá trị lớn, đáng giá
-value       giá trị, ước tính, định giá
-van             tiền đội, quân tiên phong; xe tải
-vote        sự bỏ phiếu, sự bầu cử; bỏ phiếu, bầu cử
-wage        tiền lương, tiền công
-wake        thức dậy, tỉnh thức
-well        tốt, giỏi; ôi, may quá!
-live        sống
-march       diễu hành, hành quân; cuộc hành quân, cuộc diễu hành
-miss        cô gái, thiếu nữ
-mum             mẹ
-unnecessary     không cần thiết, không mong muốn
-each other  nhau, lẫn nhau
-penny       số tiền
-bored       chán nản
-hello       xin chào
-numeral         số,chữ số
-shot   sự bắn súng
+abandon	từ bỏ
+able	có năng lực
+about 	khoảng, về
+above 	ở trên
+act	hành động
+add	    thêm
+addition	tính cộng
+additional	thêm vào
+address	địa chỉ
+adjust	sửa lại cho đúng
+admire	khâm phục
+admit	nhận vào
+adopt	bố mẹ nuôi
+adult	người lớn
+advance	sự tiến bộ
+advanced	tiên tiến
+advantage	sự thuận lợi
+after	đằng sau
+again	lại, nữa, lần nữa
+age	tuổi
+ago	trước đây
+agree	đồng ý
+air	không khí
+all	tất cả
+allow	cho phép
+always	luôn luôn
+and	và
+anger	sự tức giận
+animal	động vật
+answer	sự trả lời
+appear	xuất hiện
+apple	quả táo
+area	diện tích, bề mặt
+arrange	sắp xếp
+arrive	đến
+art	nghệ thuật
+atmosphere	khí quyển
+atom	nguyên tử
+attach	gắn, dán, trói, buộc
+attached	gắn bó
+attack	sự tấn công
+baby	đứa trẻ mới sinh
+back	lưng, về phía sau, trờ lại
+background	nền
+backward	về phía sau
+bad	xấu
+badly	tồi
+bag	bao, túi, cặp sách
+ball	quả bóng
+band	băng
+bank	bờ, đê
+barrier	đặt chướng ngại vật
+basic	cơ bản
+be	thì, là
+beach	bãi biển
+bear	mang, vác, cầm
+beat	tiếng đập
+beauty	cái đẹp
+bed	cái giường
+beef	thịt bò
+been	thì, là
+beer	bia
+before	trước
+begin	bắt đầu, khởi hành
+behalf	sự thay mặt
+behave	đối xử, ăn ở
+behind	dằng sau
+belief	lòng tin, đức tin
+believe	tin tưởng
+bell	cái chuông
+belong	thuộc về, của
+below	ở dưới, phía dưới
+belt	dây lưng
+best	tốt nhất
+better	tốt hơn
+between	giữa
+big	to, lớn
+bird	con chim
+bit	miếng, mảnh
+black	màu đen
+block	khối, tảng
+blood	máu, huyết
+blow	nở hoa
+blue	màu xanh
+board	tấm ván, lướt ván
+boat	tàu, thuyền
+body	thân thể
+bone	xương
+book	sách
+both	cả hai
+bottom	phần dưới cùng
+bought	mua
+box	hộp, thùng
+boy	con trai
+branch	nhành cây
+bread	bánh mỳ
+break	bẻ gãy, đập vỡ
+bright	sáng chói
+bring	mang, cầm
+broad	rộng
+brother	anh, em trai
+build	xây dựng
+busy	bận rộn
+but	nhưng
+cabinet	tủ có nhiều ngăn đồ
+cable	dây cáp
+cake	bánh ngọt
+calculate	tính toán
+call	gọi
+calm	yên lặng, làm dịu đi
+calmly	yên lặng, yên ả
+camera	máy ảnh
+camp	cắm trại
+camping	sự cắm trại
+can	có thể
+cancel	hủy bỏ, xóa bỏ
+cancer	bệnh ung thư
+candy	kẹo
+capital	thủ đô
+captain	người cầm đầu
+car	xe hơi
+care	quan tâm
+career	nghề nghiệp
+carefully	cẩn thận, chu đáo
+carry	mang, vác
+case	vỏ, ngăn, túi
+cast	quăng, ném, thả
+cat	con mèo
+catch	bắt lấy
+caught	sự nắm lấy
+cause	nguyên nhân
+cell	ô, ngăn
+cent	đồng xu
+century	thế kỉ
+certain	chắc chắn
+chair	cái ghế
+chance	sự may mắn
+change	thay đổi
+charge	nhiệm vụ, bổn phận
+chart	đồ thị
+check	kiểm tra
+chick	chim con, gà con
+child	đứa trẻ
+choose	lựa chọn
+chord	dây
+city	thành phố
+class	lớp
+clean	sạch
+clear	lau chùi
+climb	leo,trèo
+clock	đồng hồ
+close	đóng kín
+clothe	mặc quần áo
+cloud	đám mây
+cold	lạnh
+color	màu sắc
+common	công cộng
+company	công ty
+compare	so sánh
+complete	hoàn thành
+connect	kết nối
+consider	cân nhắc, xem xét
+contain	bao hàm
+control	điều khiển
+copy	bản sao
+count	đếm, tính
+create	sáng tạo
+crop	vụ mùa
+cut	cắt, chặt
+dad	bố, cha
+dance	nhảy múa
+danger	sự nguy hiểm
+dark	tối tăm, bóng tối
+data	số liệu, dữ liệu
+date	ngày, kỳ hạn
+daughter	con gái
+day	ngày
+dead	chết
+deaf	điếc, làm ngơ
+deal with	giải quyết
+dear	thân yêu
+death	sự chết
+decay	tình trạng suy tàn
+december	tháng mười hai
+decide	quyết định
+decline	sự suy tàn
+degree	mức độ
+describe	diễn tả
+desert	sa mạc
+design	thiết kế
+develop	phát triển
+dictionary	từ điển
+die	chết, hi sinh
+differ	khác, không giống
+discuss	thảo luận
+doctor	bác sĩ
+dog	con chó
+door	cửa
+double	đôi, hai
+down	xuống
+duck	con vịt
+during	trong lúc
+each	mỗi
+ear	tai
+early	sớm
+earn	kiếm
+earth	trái đất
+ease	sự thoải mái
+easily	dễ dàng
+east	hướng đông
+easy	dễ dàng
+eat	ăn
+edition	nhà xuất bản
+effect	hiệu quả
+egg	trứng
+eight	trứng
+electric	điện
+energy	năng lượng
+engine	máy, động cơ
+enough	đủ
+evening	buổi tối
+event	sự kiện
+example	ví dụ
+exercise	tâp thể dục
+experience	kinh nghiệm
+eye	mắt
+face	mặt, đương đầu
+fact	sự việc
+factor	nhân tố
+factory	nhà máy
+fair	công bằng
+fell	da lông
+field	cánh đồng
+find	tìm thấy
+fine	tốt, giỏi
+finish	kết thúc
+first	thứ nhất
+fish	cá
+floor	chảy
+flower	hoa
+follow	di theo sau
+food	đồ ăn
+foot	bàn chân, chân
+free	miễn phí
+friend	bạn bè
+from	từ
+fruit	quả, trái cây
+gain	lợi ích
+game	trò chơi
+gap	chỗ trống, đèo
+garden	vườn
+gate	cổng
+gear	thiết bị, dụng cụ
+give	cho, biếu, tặng
+glass	kính, thủy tinh
+go	đi
+good	tốt
+grass	cỏ
+gray	màu xám
+great	to, lớn
+group	nhóm
+grow	mọc lên
+guide	dẫn đường
+gun	súng
+habit	thói quen
+hair	tóc
+happen	xảy ra
+happy	hạnh phúc
+hard	cứng, rắn
+hardly	khắc nghiệt, tàn khốc, tàn tệ
+harm	thiệt hại
+hat	cái mũ
+hate	ghét, lòng căm ghét
+help	giúp đỡ
+here	ở đây
+high	cao
+hill	đồi
+hit	đánh, đấm
+hot	nóng
+house	nhà
+human	con người
+hunt	đi săn
+ice	băng, nước đá
+idea	ý tưởng
+ideal	quan niệm
+include	bao gồm
+industry	công nghiệp
+invent	phát minh
+island	hòn đảo
+jeans	quần zin
+job	việc làm
+join	gia  nhập
+jump	nhảy
+just	đúng
+keep	giữ
+key	chìa  khóa
+kill	giết
+king	vua
+know	biết
+lady	quý cô
+lake	hồ
+land	đất canh tác
+late	trễ, muộn
+lay	xếp, đặt
+learn	nghiên cứu, học
+length	chiều dài
+letter	thư
+level	trình độ
+list	danh sách
+locate	xác định vị trí
+love	yêu
+machine	máy móc
+magazine	tạp chí
+main	chính, chủ yếu
+maintain	giữ gìn, duy trì
+mean	nghĩa
+meet	gặp
+method	phương pháp
+might	có thể
+million	triệu
+mix	trộn
+modern	hiện đại
+month	tháng
+moon	mặt trăng
+mountain	núi
+name	tên
+nation	dân tộc
+nature	tự nhiên
+neighbor	hàng xóm
+never	không bao giờ
+night	đêm
+nine 	số chín
