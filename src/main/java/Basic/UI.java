@@ -28,13 +28,13 @@ public class UI extends JFrame {
         this.pack();
         //this.setResizable(false);
 
-        this.addWindowListener(new WindowAdapter() {
-            @Override
-            public void windowClosing(WindowEvent e) {
-                DictionaryCommandline.DicManagement.dictionaryExportToFile();
-                super.windowClosing(e);
-            }
-        });
+//        this.addWindowListener(new WindowAdapter() {
+//            @Override
+//            public void windowClosing(WindowEvent e) {
+//                DictionaryCommandline.DicManagement.dictionaryExportToFile();
+//                super.windowClosing(e);
+//            }
+//        });
 
         text.setBackground(new Color(0,0,0,0));
 
@@ -42,14 +42,26 @@ public class UI extends JFrame {
         word.setBackground(Color.GRAY);
 
         list1.setListData(Dictionary.listWord.toArray());
+
         word_target_field.addActionListener(e -> {
             if(word_target_field.getText().isEmpty()){
                 list1.setListData(Dictionary.listWord.toArray());
-            }else {
+            }
+//            else if ()
+//            {
+//                List<Word> temp =  Dictionary.listWord;
+//                list1.setListData(temp.stream().filter(word -> {
+//                    if (word.getWord_target().length() < word_target_field.getText().length()) return false;
+//                    return word.getWord_target().contains(word_target_field.getText());
+//                }).toList().toArray());
+//            }
+            else {
                 List<Word> temp =  Dictionary.listWord;
-                list1.setListData( temp.stream().filter(word -> {
+                list1.setListData(temp.stream().filter(word -> {
                     if (word.getWord_target().length() < word_target_field.getText().length()) return false;
-                    return word.getWord_target().contains(word_target_field.getText());
+                    else if(word.getWord_target().startsWith(word_target_field.getText())) return true;
+                    return false;
+                    //return word.getWord_target().contains(word_target_field.getText());
                 }).toList().toArray());
             }
         });

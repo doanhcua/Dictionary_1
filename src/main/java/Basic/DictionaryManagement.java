@@ -23,51 +23,7 @@ public class DictionaryManagement {
             System.out.println("Dictionary is empty !");
         }
     }
-    // FUNCTION insertFromCommandline
-    public void insertFromCommandline() {
-        System.out.println("Word target");
-        String target = scan.nextLine();
-        boolean check = false;
-        for (Word elem : Dictionary.listWord) {
-            if (elem.getWord_target().equals(target.trim())) {
-                System.out.println( target + "  has already been ");
-                check = true;
-                break;
-            }
-        }
-        if(!check) {
-            System.out.print("Word explain: ");
-            String explain = scan.nextLine();
-            Dictionary.listWord.add(new Word(target, explain));
-        }
-    }
-    //FUNCTION dictionaryLookup
-    public void dictionaryLookup() {
-        System.out.print("Word: ");
-        String wordLookup = scan.nextLine();
-        for (Word elem : Dictionary.listWord) {
-            if (elem.getWord_target().equals(wordLookup)) {
-//                System.out.println("Lookup Success !");
-                elem.printWord();
-                return;
-            }
-        }
-        System.out.println("Word does not exit ! ");
-    }
 
-    // FUNCTION deleteWordInDictionary
-    public void deleteWordInDictionary() {
-        System.out.println("Word want delete: ");
-        String del = scan.nextLine();
-        for (int i = 0; i < Dictionary.listWord.size(); i++) {
-            if (Dictionary.listWord.get(i).getWord_target().equals(del)) {
-                System.out.println(del + ":found in dictionary !");
-                Dictionary.listWord.remove(i);
-                return;
-            }
-        }
-        System.out.println("Word Not Found !");
-    }
     //FUNCTION insertFromFile
     public void insertFromFile() {
         BufferedReader br = null;
